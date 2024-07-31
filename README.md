@@ -1,5 +1,5 @@
 ## as vezes nos precisamos nos **machucar** 💬
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2Fposter-a-fantstica-fbrica-da-mpb-chico-rei--746964288208119006%2F&psig=AOvVaw3vvxwpdgsh38rmuX4vtzDS&ust=1722549231940000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOj9yYqi0ocDFQAAAAAdAAAAABAE)
+![https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2Fposter-a-fantstica-fbrica-da-mpb-chico-rei--746964288208119006%2F&psig=AOvVaw3vvxwpdgsh38rmuX4vtzDS&ust=1722549231940000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCOj9yYqi0ocDFQAAAAAdAAAAABAE](link)
 ]()
 )
 > Escrito por Alura Start
