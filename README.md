@@ -1,5 +1,6 @@
 ## as vezes nos precisamos nos **machucar** 💬
-![](![Uploading image.png…]()
+![![Uploading image.png…]()
+]()
 )
 > Escrito por Alura Start
 <!--
