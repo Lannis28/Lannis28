@@ -1,4 +1,6 @@
 ## as vezes nos precisamos nos **machucar** 💬
+![![image](https://github.com/user-attachments/assets/c6f65f86-e5e8-474a-af7a-eedbfa7ac305)
+](link)
 > Escrito por Alura Start
 <!--
 **Lannis28/Lannis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
