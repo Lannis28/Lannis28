@@ -1,4 +1,4 @@
-## Hi there 👋
+## as vezes nos precisamos nos machucar 👋
 
 <!--
 **Lannis28/Lannis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
