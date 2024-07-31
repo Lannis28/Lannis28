@@ -1,5 +1,5 @@
 ## as vezes nos precisamos nos **machucar** 💬
-
+> Escrito por Alura Start
 <!--
 **Lannis28/Lannis28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
